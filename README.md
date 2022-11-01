@@ -6,4 +6,4 @@
 Get the informations about TOP watched Repositories every month for every Development Language(default per_page=30)
 
 ## Reference
-About GitHub Rest API: https://docs.github.com/en/rest/overview/resources-in-the-rest-api
+- About GitHub Rest API: https://docs.github.com/en/rest/overview/resources-in-the-rest-api
